@@ -58,7 +58,7 @@ circuit.measure(0, 0)
 1. How do I run the circuit many times?
 
 ## Learning Plan
-### 2026-08-18 — Qiskit basics + math refresh
+### 2026-08-18 — Qiskit basics + math refresh (completed 08-18)
 Goal: Understand what Qiskit is, refresh only the math needed to follow basic quantum concepts, and be able to explain the first circuit in my own words.
 
 1. Watch "What is Qiskit?" video
@@ -67,13 +67,35 @@ Goal: Understand what Qiskit is, refresh only the math needed to follow basic qu
 
 2. Math refresher — 15–20 minutes
 
-[ ] Done when: I either complete one small lesson/exercise set OR identify the exact prerequisite I need next.
+[x] Done when: I either complete one small lesson/exercise set OR identify the exact prerequisite I need next.
 
 3. Open hello_quantum.py. Add code notation for each line, explaining what it does.
 
 [x] Done when: I can explain the circuit without looking up the explanation.
 
-------------
+### 2026-08-19 — Vectors + the math underneath H
+Goal: Build enough linear-algebra vocabulary that the statement “a qubit state is a vector and H is a matrix transformation” becomes less confusing.
+
+1. Khan Academy math refresh — 20–30 minutes
+[ ] Done when: Complete one exercise/quiz or identify the next specific math gap.
+
+2. Linear Algebra: vectors only — 15–20 minutes
+See what I remember about... anything.
+
+[ ] Done when: I can describe a vector my own words without copying Khan Academy’s definition.
+
+3. Connect it to my qubit — 10 minutes
+Learn what |0⟩ and |1⟩ are naming, and connect those names to their vector forms.
+
+- Recognize what |0⟩ and |1⟩ represent
+[ ] Done when: I can answer 
+- What does [1, 0] represent?
+- What does [0, 1] represent?
+- Why are there two numbers for one qubit state?
+
+4. Revisit H — 5 minutes
+[ ] Done when: I can explain what H does conceptually, without yet doing the matrix math.
+
 
 ## Math refresh
 

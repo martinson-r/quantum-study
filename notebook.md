@@ -56,3 +56,16 @@ circuit.measure(0, 0)
 1. What does “state” mean mathematically?
 1. Why does measurement produce 0 or 1?
 1. How do I run the circuit many times?
+
+## Learning Plan
+### 2026-08-18 — Qiskit basics + math refresh
+Goal: Understand what Qiskit is, refresh only the math needed to follow basic quantum concepts, and be able to explain the first circuit in my own words.
+
+1. Watch "What is Qiskit?" video
+Done when: I can explain Qiskit in 2–3 sentences.
+
+2. Math refresher — 15–20 minutes
+Done when: I either complete one small lesson/exercise set OR identify the exact prerequisite I need next.
+
+3. Open hello_quantum.py. Add code notation for each line, explaining what it does.
+Done when: I can explain the circuit without looking up the explanation.

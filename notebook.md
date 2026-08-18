@@ -71,4 +71,21 @@ Goal: Understand what Qiskit is, refresh only the math needed to follow basic qu
 
 3. Open hello_quantum.py. Add code notation for each line, explaining what it does.
 
-[ ] Done when: I can explain the circuit without looking up the explanation.
+[x] Done when: I can explain the circuit without looking up the explanation.
+
+------------
+
+## Math refresh
+
+I graduated college a long time ago and remember substantially less algebra than quantum computing requires.
+
+Current refresh work - Khan Academy:
+- Pre-algebra
+- Algebra 1
+- Algebra 2
+- College Algebra (select topics)
+- Linear Algebra
+
+Khan Academy progress: https://www.khanacademy.org/profile/martinsonr/progress
+
+The goal is not course completion but to relearn the math needed to understand the quantum concepts explored in this repo.

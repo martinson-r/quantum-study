@@ -77,18 +77,33 @@ Goal: Understand what Qiskit is, refresh only the math needed to follow basic qu
 Goal: Build enough linear-algebra vocabulary that the statement “a qubit state is a vector and H is a matrix transformation” becomes less confusing.
 
 1. Khan Academy math refresh — 20–30 minutes
-[ ] Done when: Complete one exercise/quiz or identify the next specific math gap.
+
+[x] Done when: Complete one exercise/quiz or identify the next specific math gap.
 
 2. Linear Algebra: vectors only — 15–20 minutes
+
 See what I remember about... anything.
 
-[ ] Done when: I can describe a vector my own words without copying Khan Academy’s definition.
+[x] Done when: I can describe a vector my own words without copying Khan Academy’s definition.
+
+### In my own words:
+```
+Ok, a vector is something that has magnitude (which can be distance, velocity, force, acceleration, etc) and a direction, and potentially any number of dimensions. My intuitive understanding is "a vector is an ordered set of values describing a position/state in some dimensional space". That's a bit too simple in some ways and "a vector is a position/state/direction-like quantity in some space, and an ordered set of numbers is how we represent that vector relative to a defined coordinate system or basis" is probably more precise. 
+
+- The less intuitive description would be: "a vector is an ordered collection of numbers that can be added to other vectors and scaled by multiplying by a number". But that just describes a vector as numbers that can be operated on... it describes a representation of a vector, but doesn't describe the underlying idea very well.
+- A vector is a quantity or state that can be decomposed into components relative to some chosen basis. In 2D physical space, the vector might be “this displacement.” You can describe it using x/y components, but the vector itself is not the pair (3,4). (3,4) is one coordinate description of it relative to the x/y axes. That’s why you can rotate the coordinate system and the numbers change while the underlying vector stays the same.
+- So I want to stress (to myself) that the coordinate representation of the vector is NOT the vector itself. 
+
+```
 
 3. Connect it to my qubit — 10 minutes
+
 Learn what |0⟩ and |1⟩ are naming, and connect those names to their vector forms.
 
 - Recognize what |0⟩ and |1⟩ represent
+
 [ ] Done when: I can answer 
+
 - What does [1, 0] represent?
 - What does [0, 1] represent?
 - Why are there two numbers for one qubit state?
@@ -101,12 +116,16 @@ Learn what |0⟩ and |1⟩ are naming, and connect those names to their vector f
 
 I graduated college a long time ago and remember substantially less algebra than quantum computing requires.
 
+My background in animation and coding makes vectors, coordinates, transforms, and state representations more intuitive to me than decontextualized algebra exercises. I’m therefore using linear algebra as the primary path and patching algebra skills as needed.
+
+As a result, my route through the prerequisites may be, regrettably, non-linear.
+
 Current refresh work - Khan Academy:
-- Pre-algebra
-- Algebra 1
-- Algebra 2
-- College Algebra (select topics)
+
 - Linear Algebra
+- Algebra 1 (select topics)
+- Algebra 2 (select topics)
+- College Algebra (select topics)
 
 Khan Academy progress: https://www.khanacademy.org/profile/martinsonr/progress
 

@@ -1,7 +1,5 @@
 # Ultimate Goals
 
-I am **not** trying to become a quantum physicist.
-
 My goal is to become technically competent enough to design, build, and evaluate useful UX for quantum computing tools without hand-waving past the underlying concepts.
 
 ## 1. Build a reliable working understanding of quantum computing

@@ -14,6 +14,13 @@
 ### Courses and Tutorials
 - [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [IBM Courses](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information)
+- [MIT Intro Quantum Physics I](https://www.ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/video-lectures/part-1/?utm_source=chatgpt.com)
+
+# Current Study Plan
+
+1. Linear Algebra 
+1. MIT L1.1, L1.3–L1.5, L2.1, L2.4
+1. IBM Basics of Quantum Information
 
 ---
 
@@ -102,7 +109,7 @@ Learn what |0⟩ and |1⟩ are naming, and connect those names to their vector f
 
 - Recognize what |0⟩ and |1⟩ represent
 
-[ ] Done when: I can answer 
+[x] Done when: I can answer 
 
 - What does [1, 0] represent?
 - What does [0, 1] represent?
